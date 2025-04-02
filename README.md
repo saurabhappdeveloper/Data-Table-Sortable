@@ -1,14 +1,18 @@
+# DataTable
+
+A new Flutter project.
+
 This project is a starting point for a Flutter application.
 
 # ScreenShots
 <div style="display: flex; gap: 30px;">
-  <img src="https://github.com/user-attachments/assets/598702e0-984e-440a-8d9c-a1fa787b8639" width="200" height="350">
-  <img src="https://github.com/user-attachments/assets/728eba63-cdb9-459a-a34f-2ac775680d2b" width="200" height="350">
+  <img src="https://github.com/user-attachments/assets/289b2c99-f988-4861-9fe8-a99099b40a5a" width="200" height="350">
+  <img src="https://github.com/user-attachments/assets/db276208-3343-42f2-8346-3f053212f0f7" width="200" height="350">
 </div>
 
 <hr>
 
 <div style="display: flex; gap: 30px;">
-  <img src="https://github.com/user-attachments/assets/88773b86-3d9b-4e16-bbc9-7137749459e8" width="200" height="350">
-  <img src="https://github.com/user-attachments/assets/a89d896a-972f-4616-884a-28fe3a932cd6" width="200" height="350">
+  <img src="https://github.com/user-attachments/assets/f734051c-fc13-44cd-b2e9-34ea3263a122" width="200" height="350">
 </div>
+
